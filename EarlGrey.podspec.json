@@ -16,8 +16,8 @@
   },
   "requires_arc": true,
   "source": {
-    :type => "zip",
-    :http => "https://github.com/AdevintaSpain/EarlGrey/releases/download/1.17.0/EarlGrey.zip"
+    "type" => "zip",
+    "http" => "https://github.com/AdevintaSpain/EarlGrey/releases/download/1.17.0/EarlGrey.zip"
   },
   "frameworks": [
     "CoreData",
